@@ -1,7 +1,7 @@
 # Reels web-app clone
 #
 #
-# deployment -link:  https://reels-839c5.web.app
+# deployment -link (open in icognito mode):  https://reels-839c5.web.app
 
 
 
